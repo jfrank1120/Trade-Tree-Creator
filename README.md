@@ -16,8 +16,13 @@ having all of it publicly available
 
 ### How to run Trade Tree Creator
 1. Clone the repository
-2. `./run_trade_tree.sh`
-3. Go to the [hosted site](http://127.0.0.1:8080/static/index.html) <br>
+2. [Install python](https://www.python.org/downloads/)
+3. Run the script
+   - For Windows Users
+     * Open CMD and type `./run_trade_tree_windows.sh`
+   - For Mac/Linux Users
+     * Open Terminal and type `./run_trade_tree.sh`
+4. Go to the [hosted site](http://127.0.0.1:8080/static/index.html) <br>
 <br>
 It's that simple!
 
